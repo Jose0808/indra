@@ -1,0 +1,6 @@
+D:\Indra\BackEnd\BackendGestionProductos\Dto\bin\Debug\Dto.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dto\bin\Debug\Dto.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+D:\Indra\BackEnd\BackendGestionProductos\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\Indra\BackEnd\BackendGestionProductos\Dto\obj\Debug\Dto.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dto\obj\Debug\Dto.pdb

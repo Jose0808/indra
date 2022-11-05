@@ -1,0 +1,11 @@
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dal.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dal.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dapper.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dto.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dto.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Dal\bin\Debug\Dapper.xml
+D:\Indra\BackEnd\BackendGestionProductos\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+D:\Indra\BackEnd\BackendGestionProductos\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\Indra\BackEnd\BackendGestionProductos\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\Indra\BackEnd\BackendGestionProductos\Dal\obj\Debug\Dal.dll
+D:\Indra\BackEnd\BackendGestionProductos\Dal\obj\Debug\Dal.pdb

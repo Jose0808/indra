@@ -1,0 +1,13 @@
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Business.dll
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Business.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dal.dll
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dto.dll
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dapper.dll
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dal.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dto.pdb
+D:\Indra\BackEnd\BackendGestionProductos\Business\bin\Debug\Dapper.xml
+D:\Indra\BackEnd\BackendGestionProductos\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\Indra\BackEnd\BackendGestionProductos\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Indra\BackEnd\BackendGestionProductos\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Indra\BackEnd\BackendGestionProductos\Business\obj\Debug\Business.dll
+D:\Indra\BackEnd\BackendGestionProductos\Business\obj\Debug\Business.pdb
